@@ -13,7 +13,7 @@ This repository has been created for practical purposes.
   4. ember-data.js -> v.12
   5. showdown.js -> For parsing text in markdown format and convert it to html.
   6. moment.js -> To format _datetimes_ of JavaScript.
-2. css. lib 
+2. css 
   1. normalize.css
   2. bootstrap.css -> v2.3.1
 
